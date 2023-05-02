@@ -36,11 +36,11 @@
 
 </details>
 
-# Me de um feedback por favor, obgd
-<details> 
-email: titomalb@gmail.com
-phone: +5561982617443
-</details>
+Me de um feedback por favor, obgd
+ 
+* email: titomalb@gmail.com
+* phone: +5561982617443
+
 
 
 
